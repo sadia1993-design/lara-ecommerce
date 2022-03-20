@@ -2,6 +2,7 @@
     <x-slot name="page_title">
         Register
     </x-slot>
+
     <x-breadcrump>
         <div class="wrap-breadcrumb">
             <ul>
